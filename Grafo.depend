@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1543319926 source:e:\projetos\grafo\main.cpp
+	<iostream>
+	<stdexcept>
+	"Grafo.h"
+	"tipoOrientacao.h"
+
+1543314214 source:e:\projetos\grafo\src\arvoreavl.cpp
+	"ArvoreAVL.h"
+	"No.h"
+	"Informacao.h"
+	<iostream>
+	<cstring>
+
+1543314204 e:\projetos\grafo\include\arvoreavl.h
+	"No.h"
+	"Informacao.h"
+	<iostream>
+
+1543314370 e:\projetos\grafo\include\no.h
+	"Informacao.h"
+	<iostream>
+
+1543314262 e:\projetos\grafo\include\informacao.h
+	<string>
+
+1543314240 source:e:\projetos\grafo\src\coluna.cpp
+	"Coluna.h"
+	<sstream>
+	<string>
+
+1543314234 e:\projetos\grafo\include\coluna.h
+	"Informacao.h"
+	<string>
+
+1543314268 source:e:\projetos\grafo\src\informacao.cpp
+	"Informacao.h"
+
+1543314292 source:e:\projetos\grafo\src\linha.cpp
+	"Linha.h"
+	"Coluna.h"
+	<sstream>
+
+1543314284 e:\projetos\grafo\include\linha.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+	"Coluna.h"
+	<string>
+
+1543314322 source:e:\projetos\grafo\src\matrizesparsa.cpp
+	"MatrizEsparsa.h"
+	"Linha.h"
+
+1543314314 e:\projetos\grafo\include\matrizesparsa.h
+	"ArvoreAVL.h"
+	"Informacao.h"
+
+1543314352 source:e:\projetos\grafo\src\minhainformacao.cpp
+	"MinhaInformacao.h"
+	<informacao.h>
+	<sstream>
+	<string>
+
+1543314344 e:\projetos\grafo\include\minhainformacao.h
+	"informacao.h"
+	<string>
+
+1543314382 source:e:\projetos\grafo\src\no.cpp
+	"No.h"
+	"Informacao.h"
+	<sstream>
+
+1543320080 source:e:\projetos\grafo\src\grafo.cpp
+	"Grafo.h"
+	"MinhaInformacao.h"
+	<iostream>
+	<stdexcept>
+
+1543317336 e:\projetos\grafo\include\grafo.h
+	"MatrizEsparsa.h"
+	"tipoOrientacao.h"
+
+1543315646 e:\projetos\grafo\include\tipoorientacao.h
+
